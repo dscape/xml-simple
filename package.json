@@ -1,0 +1,9 @@
+{ "name": "xml-simple"
+, "description": "Simple XML Parsing based on xml2js"
+, "version": "0.0.1"
+, "author": "Nuno Job <nunojobpinto@gmail.com> (http://nunojob.com)"
+, "keywords": ["xml2js", "data", "xml", "json"]
+, "dependencies": { "xml2js": "0.1.9" }
+, "main": "./index.js"
+, "engines" : { "node" : ">=0.4.8" }
+}
