@@ -1,4 +1,8 @@
-# Usage
+# Install
+
+    npm install
+
+# Use
 
     var XML = require('xml-simple');
     XML.parse("<p><b>XML</b></p>", function(e,parsed) { console.log(parsed) })
